@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ALIVEZ</string>
+    <string name="favorites">favorites</string>
+    <string name="music">music</string>
+    <string name="news">news</string>
+    <string name="places">places</string>
+    <string name="login_heading">Explore the world of fitness</string>
+    <string name="login_startup_content">We will help you achieve your fitness goals</string>
+    <string name="Login">Login</string>
+    <string name="Signup">Sign Up</string>
+    <string name="enterusername">Enter Username</string>
+    <string name="enterpassword">Enter Password</string>
+    <string name="more">More about Us</string>
+    <string name="rememberme">Remember Me</string>
+    <string name="forgetpass">Forgot Password</string>
+    <string name="createacc">Create Account</string>
+</resources>

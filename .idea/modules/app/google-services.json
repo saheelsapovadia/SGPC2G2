@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "585931356337",
+    "firebase_url": "https://sgpc2g2.firebaseio.com",
+    "project_id": "sgpc2g2",
+    "storage_bucket": "sgpc2g2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585931356337:android:9446d13e645e027ab30a90",
+        "android_client_info": {
+          "package_name": "com.example.materialsdesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585931356337-uhc2blskvgt1cr7d82vs4f0n63vki7ln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.materialsdesign",
+            "certificate_hash": "3331837a2b2fa67fcc918c5f6f2cb0f0deaf6ab8"
+          }
+        },
+        {
+          "client_id": "585931356337-cet4u4g32gtf1iv1udr99uttcs40ig97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4GPCwcqXkBbohHpaKULy4vvHKaUeN57w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585931356337-cet4u4g32gtf1iv1udr99uttcs40ig97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
